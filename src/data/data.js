@@ -1,5 +1,6 @@
 const data = [
   {
+    key: 1,
     logo: "logo1.png",
     Img: "image1.jpg",
     emoji: "emoji",
@@ -9,6 +10,7 @@ const data = [
     date: "2024-03-10T10:00:00", // Example date string in ISO format
   },
   {
+    key: 2,
     logo: "logo2.png",
     Img: "image2.jpg",
     emoji: "emoji",
@@ -18,6 +20,7 @@ const data = [
     date: "2024-03-15T14:30:00", // Example date string in ISO format
   },
   {
+    key: 3,
     logo: "logo3.png",
     Img: "image3.jpg",
     emoji: "emoji",
@@ -27,6 +30,7 @@ const data = [
     date: "2024-03-20T09:00:00", // Example date string in ISO format
   },
   {
+    key: 4,
     logo: "logo4.png",
     Img: "image4.jpg",
     emoji: "emoji",
@@ -36,6 +40,7 @@ const data = [
     date: "2024-03-25T16:45:00", // Example date string in ISO format
   },
   {
+    key: 5,
     logo: "logo5.png",
     Img: "image5.jpg",
     emoji: "emoji",
@@ -45,6 +50,7 @@ const data = [
     date: "2024-03-30T11:30:00", // Example date string in ISO format
   },
   {
+    key: 6,
     logo: "logo6.png",
     Img: "image6.jpg",
     emoji: "emoji",
@@ -54,6 +60,7 @@ const data = [
     date: "2024-04-05T13:15:00", // Example date string in ISO format
   },
   {
+    key: 7,
     logo: "logo7.png",
     Img: "image7.jpg",
     emoji: "emoji",
@@ -63,6 +70,7 @@ const data = [
     date: "2024-04-10T08:45:00", // Example date string in ISO format
   },
   {
+    key: 8,
     logo: "logo8.png",
     Img: "image8.jpg",
     emoji: "emoji",
@@ -72,6 +80,7 @@ const data = [
     date: "2024-04-15T15:20:00", // Example date string in ISO format
   },
   {
+    key: 9,
     logo: "logo9.png",
     Img: "image9.jpg",
     emoji: "emoji",
@@ -81,6 +90,7 @@ const data = [
     date: "2024-04-20T10:30:00", // Example date string in ISO format
   },
   {
+    key: 10,
     logo: "logo10.png",
     Img: "image10.jpg",
     emoji: "emoji",
